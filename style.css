@@ -1,0 +1,64 @@
+.main {
+    text-align: center;
+    padding: 2rem;
+}
+
+#task {
+    padding: 0.5rem;
+    width: 60%;
+    max-width: 400px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+button {
+    padding: 0.5rem 1rem;
+    margin-left: 1rem;
+    background-color: #5cb45c;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #349734;
+}
+
+.listing {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+ol {
+    padding-left: 2rem;
+}
+
+li {
+    padding: 0.5rem 0;
+    font-size: 1.1rem;
+}
+
+.delete {
+    margin-left: 1rem;
+    background-color: #d9534f;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 0.3rem 0.7rem;
+    cursor: pointer;
+}
+
+.delete:hover {
+    background-color: #c9302c;
+}
+
+@media (max-width: 600px) {
+    #task {
+        width: 80%;
+    }
+}
+
