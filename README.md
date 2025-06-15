@@ -28,6 +28,6 @@ A clean, minimal ToDo list web application built using **HTML**, **CSS**, and **
 
 ## 📷 Preview
 
-![Screenshot of ToDo App](./Screenshot%202025-06-15%20at%2012.53.34%E2%80%AFPM.png)
+![Screenshot of ToDo App](./Screenshot.png)
 
 ---
